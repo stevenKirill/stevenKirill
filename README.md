@@ -39,7 +39,7 @@
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/kr.svg"></code>
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/bg.svg"></code>
 
-По всем вопросам сотрудничества или найма пишите мне в телеграм или на мою почту ***kirill-pavlovskij@rambler.ru***
+По всем вопросам сотрудничества или найма пишите мне в телеграм или на мою почту [email](mailto:kirill-pavlovskij@rambler.ru)
 
 <!--
 **stevenKirill/stevenKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

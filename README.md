@@ -16,7 +16,7 @@
 I'm [Kirill](https://www.kirill-pavlovskii.ru/), and i'm frontend developer. Currently I work at Gazprombank and building CRM system for premium managers. I love coding and solving interesting problems, also I love learning new things about technologies and open source. I'm interested in travelling, sports, foreign languages and walking. I'm  a big fan of building new things, which can help other people and solve their problems.
  
  **Языки программирования и технологии:**
- **Programming languages and technologies::**
+ **Programming languages and technologies:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,7 +29,7 @@ I'm [Kirill](https://www.kirill-pavlovskii.ru/), and i'm frontend developer. Cur
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 
  **Языки, на которых говорю:**
- **Languages I can speak: :**
+ **Languages I can speak:**
  
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"></code>
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"></code>

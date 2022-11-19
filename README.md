@@ -6,7 +6,7 @@
 <a href="https://discord.gg/kirill15#8962">
   <img align="left" alt="Kirill's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://t.me/stevenPav">
+<a href="https://t.me/kirillPavlovskii">
   <img align="left" alt="Kirill Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />
 </a>
 

@@ -32,7 +32,6 @@ I'm [Kirill](https://www.kirill-pavlovskii.ru/), and i'm frontend developer. Cur
  
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"></code>
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"></code>
 
  **Страны которые посетил:**
  **Visited countries:**

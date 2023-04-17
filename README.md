@@ -33,16 +33,6 @@ I'm [Kirill](https://www.kirill-pavlovskii.ru/), and i'm frontend developer. Cur
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/ru.svg"></code>
 <code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg"></code>
 
- **Страны которые посетил:**
- **Visited countries:**
- 
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/cn.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/es.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/jp.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/kr.svg"></code>
-<code><img height="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/bg.svg"></code>
-
 По всем вопросам сотрудничества или найма пишите мне в телеграм или на мою почту [email](mailto:kirill-pavlovskij@rambler.ru)
 
 You can reach me in telegram or my email, if you want to collaborate or hire me [email](mailto:kirill-pavlovskij@rambler.ru)
